@@ -1,2 +1,2 @@
 # dynamicCollectionViewCell
-An example of automatic (dynamic) cell's size using collectionView
+A sample code where the size of each collectionView cell is calculated based on its subview (StackView) that is added programmatically
